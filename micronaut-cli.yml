@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: br.com.helpc.api
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, aws-v2-sdk, cache-caffeine, http-client, jackson-databind, java, java-application, junit, logback, lombok, maven, mockito, netty-server, openapi, readme, security, security-annotations, security-jwt, shade, spring, spring-web, swagger-ui, yaml]
